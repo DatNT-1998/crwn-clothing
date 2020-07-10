@@ -24,3 +24,19 @@ export const RemoveButtonContainer = styled.div`
     padding-left: 12px;
     cursor: pointer;
 `;
+
+export const TextContainer = styled.span`
+    width: 23%;
+`;
+
+export const QuantityContainer = styled(TextContainer)`
+    display: flex;
+
+    .arrow{
+        cursor: pointer;
+    }
+
+    .value{
+        margin: 0 10px;
+    }         
+`;
