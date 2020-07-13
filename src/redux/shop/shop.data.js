@@ -97,7 +97,7 @@ const SHOP_DATA = {
       },
       {
         id: 15,
-        name: 'Nike Brown High Tops',
+        name: 'Nike Brown High Tops', 
         imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
         price: 160
       },
@@ -106,7 +106,7 @@ const SHOP_DATA = {
         name: 'Air Jordan Limited',
         imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
         price: 190
-      },
+      }, 
       {
         id: 17,
         name: 'Timberlands',
